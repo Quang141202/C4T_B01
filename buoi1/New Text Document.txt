@@ -4,3 +4,5 @@ git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/Quang141202/C4T_B01.git
 git push -u origin master
+git config --global user.email "quang141202@gmail.com"
+  git config --global user.name "quang141202"
